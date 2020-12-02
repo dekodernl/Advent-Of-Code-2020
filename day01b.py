@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from load_puzzle_data import load_list
 
 data = load_list(1, True)
