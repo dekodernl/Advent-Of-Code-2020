@@ -1,5 +1,4 @@
 #!/usr/bin/python
-
 from load_puzzle_data import load_list
 import re
 
